@@ -7,7 +7,7 @@ Clasificacion automatica de enfermedades en plantas a partir de fotos de hojas, 
 
 ## Video de presentacion
 
-> **[Enlace al video en YouTube — por agregar]**
+> **https://youtu.be/TimBNJasvZk**
 
 ---
 
